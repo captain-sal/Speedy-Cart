@@ -1,7 +1,8 @@
 # Speedy-Cart
 
 SpeedyCart is a straightforward web application for managing your grocery list. 
-Visit [SpeedyCart](https://speedycart.netlify.app/) and start adding items hassle-free.
+
+- Visit [SpeedyCart](https://speedycart.netlify.app/) and start adding items hassle-free.
 
 ## Features
 
